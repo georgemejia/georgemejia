@@ -1,5 +1,9 @@
 ### Hi there 👋
 ---
+My name is George Mejia. I am web developer from Los Angeles, California. I am currently living in Missouri. I am looking for freelance work as well as a remote job.
+## Skills
+---
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!--
 **georgemejia/georgemejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
