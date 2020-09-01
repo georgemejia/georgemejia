@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 ---
 My name is George Mejia. I am web developer from Los Angeles, California. I am currently living in Missouri. I am looking for freelance work as well as a remote job.
 ## Skills
 ---
-![](https://img.shields.io/badge/<Code>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<Vue.js>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <!--
