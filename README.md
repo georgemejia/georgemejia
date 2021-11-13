@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is George Mejia. I am web developer from Los Angeles, California living in Missouri. I am currently learning JavaScript and Vue.js.
+My name is Jorge Mejia. I am web developer from Los Angeles, California living in Missouri. I am currently learning JavaScript and Vue.js.
 
 ## Skills
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
